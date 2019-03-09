@@ -9,4 +9,3 @@ function shout(string){
 function sayHiToGrandma(string){
   console.log('string')
 }
-
